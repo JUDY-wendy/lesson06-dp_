@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "帐篷", "weight": 300, "value": null},
+  {"id": 2, "name": "炉具", "weight": 200, "value": null},
+  {"id": 3, "name": "睡袋", "weight": 350, "value": null},
+  {"id": 4, "name": "食物", "weight": 400, "value": null},
+  {"id": 5, "name": "水具", "weight": 250, "value": null}
+]
